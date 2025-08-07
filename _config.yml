@@ -2,7 +2,7 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 url: "https://wanjinchoi.github.io"
-baseurl: "/resume
+baseurl: "/resume"
 
 # Content configuration version
 version: 2
